@@ -36,7 +36,7 @@ I’ve been crafting elegant, powerful apps that blend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![NodeJs](https://img.shields.io/badge/-NodeJs-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![NodeJs](https://img.shields.io/badge/-NodeJs-3178C6?logo=nodejs&logoColor=white&style=for-the-badge)
 
 **Frameworks & Tools**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
