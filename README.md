@@ -42,7 +42,6 @@ I’ve been crafting elegant, powerful apps that blend
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![GetX](https://img.shields.io/badge/-GetX-4B0082?style=for-the-badge)
 
